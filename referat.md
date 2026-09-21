@@ -5,7 +5,7 @@ V roce 2009 vytvořil populární videohru Minecraft. Momentálně pracuje na h�
 
 * Markus začal s programováním na domácím počítači Commodore 128 ve věku sedmi let pomocí počítačového magazínu, který poté začal předplácet.
 * Jeho nejznámějším výtvorem je tzv. sandboxová hra Minecraft, jejíž beta verze byla vydána 20. prosince 2010.
-* 19. října 2014 opustil Mojang, který prodal společnosti Microsoft za cenu 2.5 miliardy dolarů, protože nečekal takový úspěch Minecraftu a nechtěl mít zodpovědnost za tak velký projekt a firmu.
+* Devatenáctého října 2014 opustil Mojang, který prodal společnosti Microsoft za cenu 2.5 miliardy dolarů, protože nečekal takový úspěch Minecraftu a nechtěl mít zodpovědnost za tak velký projekt a firmu.
  
 [odkaz - Markus Persson](https://cs.wikipedia.org/wiki/Markus_Persson)
 
