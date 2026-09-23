@@ -9,4 +9,13 @@ Margaret Hamilton (* 17. srpna 1936 Paoli) je americká softwarová inženýrka 
  
 Margaret Hamilton [online]. Wikipedie: Otevřená encyklopedie, [cit. 2026-09-23]. Dostupné z: [odkaz - Margaret Hamilton](https://cs.wikipedia.org/wiki/Margaret_Hamilton)
 
+| Základní údaj | Informace |
+| --- | --- |
+| **Celé jméno** | Margaret Heafield Hamilton |
+| **Datum narození** | 17. srpna 1936 |
+| **Místo narození** | Paoli, Indiana, USA |
+| **Povolání** | Softwarová inženýrka, podnikatelka |
+| **Hlavní zásluha** | Vývoj letového softwaru pro Program Apollo (NASA) |
+| **Ocenění** | Prezidentská medaile svobody (2016) |
+
 ![obrazek](https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/201611/margaret-hamilton-1989.jpeg?itok=qZbGL5Rl)
