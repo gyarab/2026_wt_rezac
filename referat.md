@@ -9,4 +9,4 @@ Margaret Hamilton (* 17. srpna 1936 Paoli) je americká softwarová inženýrka 
  
 [odkaz - Margaret Hamilton](https://cs.wikipedia.org/wiki/Margaret_Hamilton)
 
-![obrazek](https://news.mit.edu/2016/apollo-code-developer-margaret-hamilton-receives-presidential-medal-of-freedom-1117)
+![obrazek](https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/201611/margaret-hamilton-1989.jpeg?itok=qZbGL5Rl)
