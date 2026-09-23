@@ -7,6 +7,6 @@ Margaret Hamilton (* 17. srpna 1936 Paoli) je americká softwarová inženýrka 
 * V první polovině 60. let 20. století pracovala na programu protiletadlové obrany s názvem SAGE.
 * Zůstala v institutu, aby pracovala pro NASA, kde byla odpovědná pro vývoj navigačního softwaru potřebného pro let na Měsíc a přistání na Měsíci.
  
-Margaret Hamilton [online]. Wikipedie: Otevřená encyklopedie, [cit. 2026-09-23]. Dostupné z:[odkaz - Margaret Hamilton](https://cs.wikipedia.org/wiki/Margaret_Hamilton)
+Margaret Hamilton [online]. Wikipedie: Otevřená encyklopedie, [cit. 2026-09-23]. Dostupné z: [odkaz - Margaret Hamilton](https://cs.wikipedia.org/wiki/Margaret_Hamilton)
 
 ![obrazek](https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/201611/margaret-hamilton-1989.jpeg?itok=qZbGL5Rl)
