@@ -1,12 +1,12 @@
-# Markus Persson
+# Margaret Hamilton
 
-Markus Alexej Persson, známý pod přezdívkou Notch (* 1. června 1979, Stockholm, Švédsko) je švédský programátor v jazyce C++, ActionScript a Java a zakladatel společnosti Mojang.
-V roce 2009 vytvořil populární videohru Minecraft. Momentálně pracuje na hře Chests and Levers.
+Margaret Hamilton (* 17. srpna 1936 Paoli) je americká softwarová inženýrka a podnikatelka. Byla ředitelkou oddělení softwarového inženýrství v MIT Instrumentation Laboratory, která vyvíjela letový software pro Program Apollo. V roce 1986 založila společnost Hamilton Technologies, která sídlí ve městě Cambridge ve státě Massachusetts. Za svůj život vydala okolo 130 článků, zpráv a různých dokumentů. V roce 2016 získala Prezidentskou medaili svobody, kterou jí udělil prezident USA Barack Obama.
 
-* Markus začal s programováním na domácím počítači Commodore 128 ve věku sedmi let pomocí počítačového magazínu, který poté začal předplácet.
-* Jeho nejznámějším výtvorem je tzv. sandboxová hra Minecraft, jejíž beta verze byla vydána 20. prosince 2010.
-* Devatenáctého října 2014 opustil Mojang, který prodal společnosti Microsoft za cenu 2.5 miliardy dolarů, protože nečekal takový úspěch Minecraftu a nechtěl mít zodpovědnost za tak velký projekt a firmu.
+* V roce 1954 vystudovala Hancock High School a roku 1958 získala akademický titul na Earlham College.
+* Když jí bylo 24 let, získala práci v Massachusettském technologickém institutu.
+* V první polovině 60. let 20. století pracovala na programu protiletadlové obrany s názvem SAGE.
+* Zůstala v institutu, aby pracovala pro NASA, kde byla odpovědná pro vývoj navigačního softwaru potřebného pro let na Měsíc a přistání na Měsíci.
  
-[odkaz - Markus Persson](https://cs.wikipedia.org/wiki/Markus_Persson)
+[odkaz - Margaret Hamilton](https://cs.wikipedia.org/wiki/Margaret_Hamilton)
 
-![obrazek](https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4d/Notch.jpg/revision/latest?cb=20240728031643)
+![obrazek](https://news.mit.edu/2016/apollo-code-developer-margaret-hamilton-receives-presidential-medal-of-freedom-1117)
