@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Speed clicker</h1>
+
+    <h2>Your count: <span id="counter"></span></h2>
+
+    <button onclick="addCnt()">Click me</button>
+    <button onclick="resetCnt()">Reset</button>
+</body>
+<script>
+    var count = 0;
+    function updateCnt() {
+        const el = document.getElementById("counter")
+        el.innerText = count;
+    }
+
+    updateCnt();
+
+    function addCnt() {
+        ;count++;
+        updateCnt();
+    }
+
+    function resetCnt() {
+        count = 0;
+        updateCnt();
+    }
+</script>
+</html>
